@@ -1,0 +1,37 @@
+html,body{
+    background-image:linear-gradient(to right,#803079,#b8c916);
+}
+
+.img1 {
+    display:flex;
+    justify-content: space-between;
+    margin:50px
+
+}
+
+.img2 {
+    display:flex;
+    justify-content: space-between;
+    margin:50px
+
+}
+
+.img3 {
+    display:flex;
+    justify-content: space-between;
+    margin:50px
+
+}
+.b p{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.c p{
+    position: absolute;
+    top:400px;
+    left:50px
+}
+.d p{
+    left:200px
+}
